@@ -2,7 +2,7 @@
 
 Powerful, pliable pixel perfection.
 An advanced Hugo theme.
-[Try it out.](https://willfaught.com/paige)
+[Try it out.](https://https://180yu.github.io/1/paige)
 
 <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github.com/willfaught/paige/raw/master/images/screenshot-dark.jpg">
